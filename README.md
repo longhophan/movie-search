@@ -14,4 +14,4 @@ react redux.
 - ShowDetail
 4. Hướng dẫn truy cập
 ---
-*truy cập vào đường dẫn sau:* 
+*truy cập vào đường dẫn sau:* https://search-movielh.netlify.app/
