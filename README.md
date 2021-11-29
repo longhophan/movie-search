@@ -2,9 +2,9 @@
 ---
 1. Wireframes
 ---
-![Wireframes](../movie-search/src/images/mota.png)
+![Wireframes](./image/mota.png)
 
-2. Technologies used
+1. Technologies used
 ---
 react redux.
 
